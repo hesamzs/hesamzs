@@ -14,7 +14,7 @@
 
 | 🖼️ Image | 📄 Title / Certificate |  🔗 Repository Link |
 |---------|------------------------|--------------------|
-| <img src="https://github.com/hesamzs/hesamzs/blob/main/Physiton_1.jpg" width="120" /> | Physiton | [Project Repo](https://github.com/username/repo](https://github.com/hesamzs/Physiton)) |
+| <img src="https://github.com/hesamzs/Physiton/blob/main/Physiton_1.jpg" width="120" /> | Physiton | [Project Repo](https://github.com/username/repo](https://github.com/hesamzs/Physiton)) |
 
 
 
